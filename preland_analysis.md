@@ -63,3 +63,30 @@
 | Спін 6 | [karvilo.com](https://www.karvilo.com/?oks_pixel_id=17893&utm_source=oks&pixel_click_id=0_0_1wScVC_78H_5O2_CaU_4h7K_5GZgjQiHWVd7i1EgQwOvAp) | <img src="3 redirect/final6-karvilo.png" width="150"> |
 
 ---
+
+## 3. cdn.ethnichomeindia.com — giftSetMC (кидання кілець)
+
+**Тип:** Прелендінг → 6 суб-прелендінгів (по одному на кожне кидання)
+
+### Крок 1 — Прелендінг (колесо/кільця)
+
+**URL:** [cdn.ethnichomeindia.com/tml/giftSetMC.html](https://cdn.ethnichomeindia.com/tml/giftSetMC.html?v=2604171705-3)
+**Скріншот:**
+<img src="1 redirect/giftset-wheel.png" width="250">
+
+---
+
+### Крок 2 — Результати кидань (6 суб-прелендінгів)
+
+| Кидок | URL | Скріншот |
+| --- | --- | --- |
+| Кидок 1 | [ecTigerPh2/aa23063](https://cdn.ethnichomeindia.com/tml/ecTigerPh2/aa23063.html) | <img src="2 redirect/giftset-spin1-ecTigerPh2-aa23063.png" width="150"> |
+| Кидок 2 | [ecMoneyComingPHL/aa22267](https://cdn.ethnichomeindia.com/tml/ecMoneyComingPHL/aa22267.html) | <img src="2 redirect/giftset-spin2-ecMoneyComing-aa22267.png" width="150"> |
+| Кидок 3 | [ecTPSweet_PH/aa24680](https://cdn.ethnichomeindia.com/tml/ecTPSweet_PH/aa24680.html) | <img src="2 redirect/giftset-spin3-ecTPSweet-aa24680.png" width="150"> |
+| Кидок 4 | [ecTigerPh2/aa23713](https://cdn.ethnichomeindia.com/tml/ecTigerPh2/aa23713.html) | <img src="2 redirect/giftset-spin4-ecTigerPh2-aa23713.png" width="150"> |
+| Кидок 5 | [ecTPSweet_PH/aa24808](https://cdn.ethnichomeindia.com/tml/ecTPSweet_PH/aa24808.html) | <img src="2 redirect/giftset-spin5-ecTPSweet-aa24808.png" width="150"> |
+| Кидок 6 | [ecTPSweet_PH/aa22267](https://cdn.ethnichomeindia.com/tml/ecTPSweet_PH/aa22267.html) | <img src="2 redirect/giftset-spin6-ecTPSweet-aa22267.png" width="150"> |
+
+> Всі 6 суб-прелендінгів потребують подальшого аналізу для визначення фінальних офферів.
+
+---
