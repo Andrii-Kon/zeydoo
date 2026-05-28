@@ -49,7 +49,6 @@
 | Спін 5 | [ecSuperAcePlus/aa24808](https://cdn.ethnichomeindia.com/tml/ecSuperAcePlus/aa24808.html) | <img src="2 redirect/spin5-ecSuperAcePlus-aa24808.png" width="150"> |
 | Спін 6 | [ecForSpins_PHL/aa17893](https://cdn.ethnichomeindia.com/tml/ecForSpins_PHL/aa17893.html) | <img src="2 redirect/spin6-ecForSpins-aa17893.png" width="150"> |
 
-> Всі 6 суб-прелендінгів потребують подальшого аналізу.
 
 ---
 
@@ -91,6 +90,5 @@
 | Кидок 5 | [ecTPSweet_PH/aa24808](https://cdn.ethnichomeindia.com/tml/ecTPSweet_PH/aa24808.html) | <img src="2 redirect/giftset-spin5-ecTPSweet-aa24808.png" width="150"> |
 | Кидок 6 | [ecTPSweet_PH/aa22267](https://cdn.ethnichomeindia.com/tml/ecTPSweet_PH/aa22267.html) | <img src="2 redirect/giftset-spin6-ecTPSweet-aa22267.png" width="150"> |
 
-> Всі 6 суб-прелендінгів потребують подальшого аналізу для визначення фінальних офферів.
 
 ---
