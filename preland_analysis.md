@@ -29,7 +29,9 @@
 ### Крок 1 — Прелендінг (колесо)
 
 **URL:** [cdn.ethnichomeindia.com/tml/mammonTurnLottie2.html](https://cdn.ethnichomeindia.com/tml/mammonTurnLottie2.html?v=2604222019-3)
+
 **Скріншот:**
+
 <img src="1 redirect/mammon-lottie-wheel.png" width="250">
 
 ---
@@ -71,7 +73,9 @@
 ### Крок 1 — Прелендінг (колесо/кільця)
 
 **URL:** [cdn.ethnichomeindia.com/tml/giftSetMC.html](https://cdn.ethnichomeindia.com/tml/giftSetMC.html?v=2604171705-3)
+
 **Скріншот:**
+
 <img src="1 redirect/giftset-wheel.png" width="250">
 
 ---
