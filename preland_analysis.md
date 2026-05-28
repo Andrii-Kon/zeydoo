@@ -50,3 +50,16 @@
 > Всі 6 суб-прелендінгів потребують подальшого аналізу.
 
 ---
+
+### Крок 3 — Фінальні офери (після кожного суб-прелендінгу)
+
+| Спін | Фінальний URL | Скріншот |
+| --- | --- | --- |
+| Спін 1 | [hzrvpwm.com](https://www.hzrvpwm.com/?pixel_click_id=0_0_1wScTg_78H_5O2_E2D_4qdR_5GZgjQiHWVd7i1EgQwOvAp&utm_source=oks&oks_pixel_id=23475) | <img src="3 redirect/final1-hzrvpwm.png" width="150"> |
+| Спін 2 | [7lx881.live](https://www.7lx881.live/4000018991/4000018991_content.html?index=QrZx&gaid=&click_id=0_0_1wScTg_78H_5O2_ETO_4qk2_5GZgjQiHWVd7i1EgQwOvAp&utm_source=oks&oks_pixel_id=24201) | <img src="3 redirect/final2-7lx881.png" width="150"> |
+| Спін 3 | [jili2.pro](https://www.jili2.pro/9736566657/9736566657_content.html?rb=9fUJ&gaid=&click_id=0_0_1wScTg_78H_5O2_EB9_4pEr_5GZgjQiHWVd7i1EgQwOvAp&utm_source=oks&oks_pixel_id=23713) | <img src="3 redirect/final3-jili2pro.png" width="150"> |
+| Спін 4 | [ph67.live](https://www.ph67.live/3326971354/3326971354_home.html?rb=caiv&gaid=&click_id=0_0_1wScTg_78H_5O2_E7j_4ou7_5GZgjQiHWVd7i1EgQwOvAp&utm_source=oks&oks_pixel_id=23643) | <img src="3 redirect/final4-ph67live.png" width="150"> |
+| Спін 5 | [spin88ph.vip](https://www.spin88ph.vip/store/apps/#/?chanId=2059571243654189058&pixel_click_id=0_0_1wScTg_78H_5O2_EnE_4sDe_5GZgjQiHWVd7i1EgQwOvAp&utm_source=mgskyads&pixel_id=24808) | <img src="3 redirect/final5-spin88ph.png" width="150"> |
+| Спін 6 | [karvilo.com](https://www.karvilo.com/?oks_pixel_id=17893&utm_source=oks&pixel_click_id=0_0_1wScVC_78H_5O2_CaU_4h7K_5GZgjQiHWVd7i1EgQwOvAp) | <img src="3 redirect/final6-karvilo.png" width="150"> |
+
+---
