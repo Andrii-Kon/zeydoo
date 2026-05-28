@@ -21,3 +21,32 @@
 <img src="2 redirect/anglegravity-final.png" width="250">
 
 ---
+
+## 2. cdn.ethnichomeindia.com — mammonTurnLottie2 (колесо спінів)
+
+**Тип:** Прелендінг → 6 суб-прелендінгів (по одному на кожен спін колеса)
+
+### Крок 1 — Прелендінг (колесо)
+
+**URL:** [cdn.ethnichomeindia.com/tml/mammonTurnLottie2.html](https://cdn.ethnichomeindia.com/tml/mammonTurnLottie2.html?v=2604222019-3)
+**Скріншот:**
+<img src="1 redirect/mammon-lottie-wheel.png" width="250">
+
+---
+
+### Крок 2 — Результати спінів (6 суб-прелендінгів)
+
+Кожен спін колеса відкриває окрему сторінку. Всі є прелендінгами, що потребують подальшого аналізу.
+
+| Спін | URL | Скріншот |
+| --- | --- | --- |
+| Спін 1 | [ecSuperAcePlus/aa23475](https://cdn.ethnichomeindia.com/tml/ecSuperAcePlus/aa23475.html) | <img src="2 redirect/spin1-ecSuperAcePlus-aa23475.png" width="150"> |
+| Спін 2 | [ecGLGameCoustom/aa24201](https://cdn.etfinancialhub.com/tml/ecGLGameCoustom/aa24201.html) | <img src="2 redirect/spin2-ecGLGameCoustom-aa24201.png" width="150"> |
+| Спін 3 | [ecTPSweet_PH/aa23713](https://cdn.ethnichomeindia.com/tml/ecTPSweet_PH/aa23713.html) | <img src="2 redirect/spin3-ecTPSweet-aa23713.png" width="150"> |
+| Спін 4 | [ecTPSweet_PH/aa23643](https://cdn.ethnichomeindia.com/tml/ecTPSweet_PH/aa23643.html) | <img src="2 redirect/spin4-ecTPSweet-aa23643.png" width="150"> |
+| Спін 5 | [ecSuperAcePlus/aa24808](https://cdn.ethnichomeindia.com/tml/ecSuperAcePlus/aa24808.html) | <img src="2 redirect/spin5-ecSuperAcePlus-aa24808.png" width="150"> |
+| Спін 6 | [ecForSpins_PHL/aa17893](https://cdn.ethnichomeindia.com/tml/ecForSpins_PHL/aa17893.html) | <img src="2 redirect/spin6-ecForSpins-aa17893.png" width="150"> |
+
+> Всі 6 суб-прелендінгів потребують подальшого аналізу.
+
+---
