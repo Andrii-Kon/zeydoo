@@ -206,3 +206,37 @@
 
 ---
 
+
+### Запуск 016 — 🇵🇭 Філіппіни
+
+**Проксі:** Gonzo — Philippines (PH)
+
+| # | Тригер | Фінальний URL | Тип | Скріншот |
+| --- | --- | --- | --- | --- |
+| Destination 1 | START (нова вкладка) | [urbanexplorenow.com](https://urbanexplorenow.com/n9PSLJ5w?cost=0.000422&currency=usd&external_id=1084200232696418617&creative_id=24827108&ad_campaign_id=10122535&zone_id=10657876&subzone_id=204700&zone_type=&exit_type=not_survey&user_activity=low) | Прелендінг | <img src="destination 1/urbanexplore-notsurvey-ph-run16.png" width="150"> |
+| Destination 2 | CONTINUE (основна вкладка) | вже зустрічалась раніше | — | — |
+| Destination 3 | CONTINUE (нова вкладка) | [cdn.ethnichomeindia.com/tml/ecTPSweet_PH/aa23567](https://cdn.ethnichomeindia.com/tml/ecTPSweet_PH/aa23567.html?v=2507251207-3&pixel_click_id=0_0_1wSwKY_73e_5Pg_E5U_4oiY_6zhZA3h8Y2zJTVGEmjs0da&utm_source=oks&pixel_id=23567) | Прелендінг (див. секцію 4, Спін 2) | <img src="destination 3/ecTPSweet-aa23567-ph-run17.png" width="150"> |
+
+---
+
+### Запуск 017 — 🇵🇭 Філіппіни
+
+**Проксі:** Gonzo — Philippines (PH)
+
+| # | Тригер | Фінальний URL | Тип | Скріншот |
+| --- | --- | --- | --- | --- |
+| Destination 1 | START (нова вкладка) | вже зустрічалась раніше | — | — |
+| Destination 2 | CONTINUE (основна вкладка) | [cdn.ethnichomeindia.com/tml/SuccessPopup.html](https://cdn.ethnichomeindia.com/tml/SuccessPopup.html?v=2604171641-3#/?d.pext=200699&tid=9776&jsv=2605291600&dtype=1&pid=20812&d.algId=43&reqId=e5d726a3d3464fdfb161fee0b7348336&model=NTH-NX9&appk=oJpKU26bMqATXyAUNPoirm44iYjF0oHd&d.psubid=10657719&d.pst=1&d.rankab=3&os=1&uid=16b7107c-c1e2-454c-a675-58e1c0c7deb4&osv=13.0.0&lang=tl&did=16b7107c-c1e2-454c-a675-58e1c0c7deb4&d.ptkid=1084203251341205829) | Прелендінг | <img src="destination 2/successpopup-ph-run17.png" width="150"> |
+| Destination 3 | CONTINUE (нова вкладка) | вже зустрічалась раніше | — | — |
+
+---
+
+### Запуск 018 — 🇵🇭 Філіппіни
+
+**Проксі:** Gonzo — Philippines (PH)
+
+Нових прелендінгів не виявлено. Всі destination вже зустрічались раніше.
+
+**Примітка:** Тестування зупинено після підтвердження того, що нових прелендінгів більше не з'являється. Вважається, що повний пул прелендінгів для цього GEO задокументований.
+
+---

@@ -166,27 +166,86 @@
 ---
 
 
-## 6. urbanexplorenow.com (exit_type=not_survey)
+## 6. safevideo прелендінг (historynice.bond / getmediavids.cfd)
 
-**Тип:** Прелендінг → Фінальний офер
+**Примітка:** Один і той самий тип прелендінгу на різних доменах. У тестових запусках зустрічався як `getmediavids.cfd/safevideo/` (Запуск 007) та `historynice.bond/safevideo/` (окреме тестування).
+
+**Тип:** Прелендінг → Прелендінг (міні-гра) → Фінальний офер (недосяжний)
 
 ### Крок 1 — Прелендінг
 
-**URL:** [urbanexplorenow.com](https://urbanexplorenow.com/n9PSLJ5w?cost=&currency=usd&external_id=1084147026546401451&creative_id=24845588&ad_campaign_id=10134007&zone_id=10657723&subzone_id=&zone_type=in-page-push&exit_type=not_survey)
+**URL (варіант 1):** [historynice.bond/safevideo](https://historynice.bond/safevideo/index.php?lp_key=17800bd8e9070595951719c78f5ac3888da6045136&xts=4&xz=10657865&xcd=mediatops.forum&xco=2&xcc=PH&xan=4&clickid=d8cl89011plc73ai3ap0)
+
+**URL (варіант 2):** [getmediavids.cfd/safevideo](https://getmediavids.cfd/safevideo/?lp_key=17799bd8e9070595951719c78f5ac3888da6075988&xts=4&xz=10657865&xcd=mediaruns1.click&xco=4&xcc=PH&xan=4&clickid=d8c4c2011plc739if030)
 
 **Скріншот:**
 
-<img src="1 redirect/urbanexplore-notsurvey-preland.png" width="250">
-**Механіка прелендінгу:**
-1. Користувач бачить сторінку → натискає **OK**
-2. Колесо автоматично крутиться перший раз
-3. Колесо крутиться вдруге — користувач «виграє»
-4. Користувач натискає **OK** ще раз
-5. Відбувається редірект на фінальний офер
+<img src="1 redirect/historynice-safevideo-preland.png" width="250">
+### Крок 2 — Прелендінг
 
+**URL:** [gettradingarena.shop](https://gettradingarena.shop/tx2GBpH3?ad_campaign_id=25966&source=10657865&external_id=d8cl89011plc73ai3ap0)
+
+**Механіка:** Міні-гра — потрібно знайти дві однакові картинки, відкриваючи їх по одній. Після перемоги з'являється вікно "Download Bonus App".
+
+**Скріншот:**
+
+<img src="3 redirect/gettradingarena-preland.png" width="250">
+
+---
+
+### Крок 3 — Фінальний офер (недосяжний)
+
+**Примітка:** Після перемоги у міні-грі з'являється кнопка "Download Bonus App", але вона не працює. Фінальний офер недосяжний.
+
+**Скріншот:**
+
+<img src="3 redirect/gettradingarena-download-broken.png" width="250">
+
+---
+
+
+## 7. telepleaseapp.cfd
+
+**Тип:** Прелендінг → Прелендінг (міні-гра, див. секцію 6) → Фінальний офер (недосяжний)
+
+### Крок 1 — Прелендінг
+
+**URL:** [telepleaseapp.cfd](https://telepleaseapp.cfd/hello1/?lp_key=1780055e418d593d9cb59eafdc9fea4fc686955522&xts=32&xco=4&xcd=autoversions.com&xan=16&clickid=d8cnpdlj19hc739l08kg)
+
+**Скріншот:**
+
+<img src="1 redirect/telepleaseapp-preland.png" width="250">
+
+---
+
+### Крок 2 — Прелендінг (міні-гра)
+
+**URL:** [gettradingarena.shop](https://gettradingarena.shop/zfZbppv3?ad_campaign_id=5820&source=10657865&external_id=d8cnpdlj19hc739l08kg)
+
+**Примітка:** Той самий тип прелендінгу що в секції 6 (міні-гра з пошуком двох однакових зображень). Кнопка "Download Bonus App" не працює — фінальний офер недосяжний.
+
+**Скріншот:**
+
+<img src="2 redirect/telepleaseapp-gettradingarena.png" width="250">
+
+---
+
+## 8. urbanexplorenow.com (exit_type=not_survey)
+
+**Тип:** Прелендінг → Фінальний офер
+
+**Механіка:** Spin-the-wheel лендінг. Потрібно крутити колесо, після чого з'являється кнопка "Claim Reward".
+
+### Крок 1 — Прелендінг
+
+**URL:** [urbanexplorenow.com](https://urbanexplorenow.com/n9PSLJ5w?cost=0.000422&currency=usd&external_id=1084200232696418617&creative_id=24827108&ad_campaign_id=10122535&zone_id=10657876&subzone_id=204700&zone_type=&exit_type=not_survey&user_activity=low)
+
+**Скріншот:**
+
+<img src="destination 1/urbanexplore-notsurvey-ph-run16.png" width="250">
 ### Крок 2 — Фінальний офер
 
-**URL:** [anglegravity.rest](https://anglegravity.rest/?sub1=2t6phd5.13.p66fgd&fb_dynamic_pixel=886505614038463&subid=2t6phd5.13.p66fgd)
+**URL:** [anglegravity.rest](https://anglegravity.rest/?sub1=3lpe1eh.13.p6qtjg&fb_dynamic_pixel=886505614038463&subid=3lpe1eh.13.p6qtjg)
 
 **Скріншот:**
 
@@ -195,24 +254,32 @@
 ---
 
 
-## 7. historynice.bond — safevideo
+## 9. cdn.ethnichomeindia.com — SuccessPopup
 
-**Тип:** Прелендінг → Фінальний офер
+**Тип:** Прелендінг → Прелендінг → Фінальний офер
 
 ### Крок 1 — Прелендінг
 
-**URL:** [historynice.bond/safevideo](https://historynice.bond/safevideo/index.php?lp_key=17800bd8e9070595951719c78f5ac3888da6045136&xts=4&xz=10657865&xcd=mediatops.forum&xco=2&xcc=PH&xan=4&clickid=d8cl89011plc73ai3ap0)
+**URL:** [cdn.ethnichomeindia.com/tml/SuccessPopup.html](https://cdn.ethnichomeindia.com/tml/SuccessPopup.html?v=2604171641-3#/?d.pext=200699&tid=9776&jsv=2605291600&dtype=1&pid=20812&d.algId=43&reqId=e5d726a3d3464fdfb161fee0b7348336&model=NTH-NX9&appk=oJpKU26bMqATXyAUNPoirm44iYjF0oHd&d.psubid=10657719&d.pst=1&d.rankab=3&os=1&uid=16b7107c-c1e2-454c-a675-58e1c0c7deb4&osv=13.0.0&lang=tl&did=16b7107c-c1e2-454c-a675-58e1c0c7deb4&d.ptkid=1084203251341205829)
 
 **Скріншот:**
 
-<img src="1 redirect/historynice-safevideo-preland.png" width="250">
-### Крок 2 — Фінальний офер
+<img src="destination 3/successpopup-ph-run17.png" width="250">
+### Крок 2 — Прелендінг
 
-**URL:** [gettradingarena.shop](https://gettradingarena.shop/tx2GBpH3?ad_campaign_id=25966&source=10657865&external_id=d8cl89011plc73ai3ap0)
+**URL:** [cdn.ethnichomeindia.com/tml/ecTPSweet_PH/aa23567](https://cdn.ethnichomeindia.com/tml/ecTPSweet_PH/aa23567.html?v=2507251207-3&pixel_click_id=0_0_1wSwKY_73e_5Pg_E5U_4oiY_6zhZA3h8Y2zJTVGEmjs0da&utm_source=oks&pixel_id=23567)
 
 **Скріншот:**
 
-<img src="2 redirect/historynice-final-gettradingarena.png" width="250">
+<img src="2 redirect/successpopup-step2-ecTPSweet-aa23567.png" width="250">
+### Крок 3 — Фінальний офер
+
+**URL:** [dhrbzkp.com](https://www.dhrbzkp.com/?pixel_click_id=0_0_1wSwKY_73e_5Pg_E5U_4oiY_6zhZA3h8Y2zJTVGEmjs0da&utm_source=oks&oks_pixel_id=23567)
+
+**Скріншот:**
+
+<img src="3 redirect/successpopup-final-dhrbzkp.png" width="250">
 
 ---
+
 
