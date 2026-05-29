@@ -100,5 +100,8 @@
 | Кидок 1 | [juan365.co](https://www.juan365.co/9924309994/9924309994_home_t2.html?click_clickid=L9do&pixel_click_id=0_0_1wScz6_73e_5Pg_E1s_4rZC_XaHbLYEtf8SgbvrplSYCr&utm_source=mgskyads&pixel_id=23063&link_id=L2605298787600256005103934413) | <img src="3 redirect/giftset-final1-juan365.png" width="150"> |
 | Кидок 2 | заблоковано | <img src="3 redirect/giftset-final2-blocked.png" width="150"> |
 | Кидок 3 | [oioglooglgl5l.com](https://www.oioglooglgl5l.com/common/store/da679f3f6b/?pixel_click_id=0_0_1wScz6_73e_5Pg_EkH_4s0Q_XaHbLYEtf8SgbvrplSYCr&oks_pixel_id=24680) | <img src="3 redirect/giftset-final3-oioglooglgl5l.png" width="150"> |
+| Кидок 4 | [jili2.pro](https://www.jili2.pro/9736566657/9736566657_content.html?rb=9fUJ&gaid=&click_id=0_0_1wScz6_73e_5Pg_EB9_4pFA_XaHbLYEtf8SgbvrplSYCr&pixel_click_id=0_0_1wScz6_73e_5Pg_EB9_4pFA_XaHbLYEtf8SgbvrplSYCr&utm_source=oks&oks_pixel_id=23713&link_id=L2605293247600264188784162400) | <img src="3 redirect/giftset-final4-jili2pro.png" width="150"> |
+| Кидок 5 | [spin88ph.vip](https://www.spin88ph.vip/store/apps/#/?chanId=2059571243654189058&pixel_click_id=0_0_1wScz6_73e_5Pg_EnE_4sDq_XaHbLYEtf8SgbvrplSYCr&utm_source=mgskyads&pixel_id=24808) | <img src="3 redirect/giftset-final5-spin88ph.png" width="150"> |
+| Кидок 6 | заблоковано | <img src="3 redirect/giftset-final6-blocked.png" width="150"> |
 
 ---
