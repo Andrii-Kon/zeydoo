@@ -105,3 +105,114 @@
 | Кидок 6 | заблоковано | <img src="3 redirect/giftset-final6-blocked.png" width="150"> |
 
 ---
+
+## 4. cdn.ethnichomeindia.com — LuckyBonus
+
+**Тип:** Нескінченний прелендінг — колесо крутиться необмежену кількість разів. Кожен спін виводить новий приз на екран, який потрібно «забрати» (Claim). При кожному кліку Claim праворуч відкривається новий суб-прелендінг. Документуються лише унікальні типи суб-прелендінгів.
+
+### Крок 1 — Прелендінг
+
+**URL:** [cdn.ethnichomeindia.com/tml/LuckyBonus.html](https://cdn.ethnichomeindia.com/tml/LuckyBonus.html?v=2604201710-3#/?appk=4WEfqMmPKpyK2Wb1YbmV9B5XuMd5OmL6&jsv=2605281747&osv=13.0.0&d.pst=1&reqId=d29833624e824031aecb86f3be64544f&pid=20710&tid=8569&dtype=1&d.psubid=10657865&d.algId=24&os=1&uid=3f50643b-a31b-4f43-9767-3338b6b03c26&d.rankab=2&did=3f50643b-a31b-4f43-9767-3338b6b03c26&lang=tl&model=NTH-NX9&d.ptkid=1083858481105608865)
+
+**Скріншот:**
+
+<img src="1 redirect/luckybonus-preland.png" width="250">
+
+---
+
+### Унікальні суб-прелендінги
+
+| # | URL | Скріншот |
+| --- | --- | --- |
+| Спін 1 | [ecSuperAcePlus2/aa23806](https://cdn.ethnichomeindia.com/tml/ecSuperAcePlus2/aa23806.html?v=2604291114-3#%7B%22jsv%22%3A%222605281747%22%2C%22b%22%3A%22vbQqxnopRqlcNGFdLWB4OXQsAUMqAD4oRqlbOXQsxSYQAXR3RoMqBCI9ACQGyT09x8Mhy6IMBDMlzD4oxb87vCklB6ZfB70gRrdrB7opRql8MWBbMrdrynUgAHR3RoMqBCI9ACQGyT09x8Mhy6IMBDMlzD4oxbRhRmIkwTcoRqlrF7MswSIoxoMhy6IaF7cewV8sB7skynEaRrdrzDMeyrR3Rns9wSYaLr1eB7IfOnE9zT4kB7seyDEkynIkBH4qy79ezD8mOaRdNqBeNWJeNqNeM7AqM7ErMaRcNqN9MaJbAWApBnVcMnUoNGspM7EnN7FfzmYoAb0WFnBrOXQdzDJrLqRdMaVdOXQoBbR3vbQkAXR3LGx6NXdrzD8mxbR3DbQlwSIdxaleO7Mpyr4owTsfzDMly78ozD4pzDVfB70gO7ogAb1bNWR7OaZ9OaV8OaN8NapaAqBbNDR6LTMqBqIpNWF5LGorAGp8MGB7LGZ7OnwkArQwOXQ9zCIhAHR3RoMqBCI9ACQGyT09x8Mhy6IMBDMlzD4oxbRhRmM8BmIkwTcoxbR3DbQGB7U9wTEbF7cewSMGyT09GDUqzTofACNrOXQGB7U9wTEbF7cewSMGyT09GDUqzTofACNrCHdrATEaB74aRqkyRoMqBCI9ACQGyT09x8Mhy6IMBDMlzD4oxbRhRoMqBCI9ACQGyT09x8Mhy6IMBDMlzD4oxbQwOXQovSJrLmhry7QjRqk2RmI5wWVrLrQQymM9BDchBCIky75tBn0fwCNrOXQ9vSJbRqlrFTcsvHYmBD8oxbY9ybYmACJrOXQkyno9zDUhJn0fwCNrLqVdNXdrwT09BDcCzD4fzD4mxbR3NaFdNXdrBnE9GmEgRqlcNWZhRmwkyqVrLqVdNWZhRmwkyqRrLqN8NWY0uHdryTofzbR3Rns9wSYaLr1ew6w6OmA4vnsqxX4qy79_xTo5ADcuB7ckB7guzDJ0NU1dCaU6F6N4AE16LVsuMF1bC9EVMU19xV0JCaAJGmwzNVwsxnIUF8IVzn8lzWwDHUJn%22%7D) | <img src="2 redirect/luckybonus-sub1-ecSuperAcePlus2-aa23806.png" width="150"> |
+| Спін 2 | [ecTPSweet_PH/aa23567](https://cdn.ethnichomeindia.com/tml/ecTPSweet_PH/aa23567.html?v=2507251207-3#%7B%22jsv%22%3A%222605281747%22%2C%22b%22%3A%22vbQqxnopRqlcNGJ5Nqx9OXQsAUMqAD4oRqlbOXQsxSYQAXR3Rqx6M8UsyVMsISMlODIlxnQ3z6ZfB70gRrdrB7opRql8MWV8MrdrynUgAHR3Rqx6M8UsyVMsISMlRrdrwTo9yTFrLrR6MawIBDcWBFIazXRhRnoqy75rLrQlwSIdxaleO7Mpyr4owTsfzDMly78ozD4pzDVfB70gO7ogAb1bNWR7%22%7D) | <img src="2 redirect/luckybonus-sub2-ecTPSweet-aa23567.png" width="150"> |
+| Спін 3 | [ecForSpins_PHL/aa17893](https://cdn.ethnichomeindia.com/tml/ecForSpins_PHL/aa17893.html?v=2507251205-3#%7B%22jsv%22%3A%222605281747%22%2C%22b%22%3A%22vbQqxnopRqlcNGV4NWF5OXQsAUMqAD4oRqlbOXQsxSYQAXR3RmM8xTEbC6wkyo16MaxgJp9rOXQqzDJrLqJ5NapdOXQfBD8oRqlrx6EdACQuw7ofCax6MbRhRmIkwTcoRqlrF6EdACRtE7ofRrdrzDMeyrR3Rns9wSYaLr1eB7If%22%7D) | <img src="2 redirect/luckybonus-sub3-ecForSpins-aa17893.png" width="150"> |
+| Спін 4 | [ecRealCashOutPh/aa12778](https://cdn.ethnichomeindia.com/tml/ecRealCashOutPh/aa12778.html?v=2507251153-3#%7B%22jsv%22%3A%222605281747%22%2C%22b%22%3A%22vbQqxnopRqlcNGVdMGZaOXQsAUMqAD4oRqlcOXQsxSYQAXR3Rp8kySoeyqt5OFMswTUhvCM9RrdrB7opRql9MqB9NHdrynUgAHR3Rp8kySoeyqt5RrdrwTo9yTFrLrQMzDc4y755LXRhRnoqy75rLrQlwSIdxaleO7Mpyr4owTsfzDMly78ozD4pzDVfB70gO7ogAb1bNWR8OaZbOaVcO7V9NaV9MaN5ATVdNWwqNnUpMWB9MnQpLDB4NnBcBDR8OmYfAb0WFnBrOXQdzDJrLqRdMaVdOXQoBbR3vbQkAXR3NGx6NHdrzD8mxbR3DbQ%22%7D) | <img src="2 redirect/luckybonus-sub4-ecRealCashOut-aa12778.png" width="150"> |
+| Спін 5 | [ecGuideRegistration/aa12778](https://cdn.ethnichomeindia.com/tml/ecGuideRegistration/aa12778.html?v=2507291148-3#%7B%22jsv%22%3A%222605281747%22%2C%22b%22%3A%22vbQqxnopRqlcNGVdMGZ8OXQsAUMqAD4oRqlbOXQsxSYQAXR3Rp8kySoeyqt5OFMswTUhvCM9RrdrB7opRql9MqB9NHdrynUgAHR3Rp8kySoeyqt5RrdrwTo9yTFrLrQMzDc4y755LXRhRnoqy75rLrQlwSIdxaleO7Mpyr4owTsfzDMly78ozD4pzDVfB70gO7ogAb1bNWR8OaZbOaVcO7V9NaV9MaN5ATVdNWwqNnUpMWB9MnQpLDB4NnBcBDR8OmYfAb0WFnBrOXQdzDJrLqRdMaVdOXQoBbR3vbQkAXR3MGJ7MXdrzD8mxbR3DbQ%22%7D) | <img src="2 redirect/luckybonus-sub5-ecGuideRegistration-aa12778.png" width="150"> |
+
+---
+
+### Фінальні офери (приклади)
+
+| Спін | Фінальний URL | Скріншот |
+| --- | --- | --- |
+| Спін 1 | [vyzhcp.com](https://www.vyzhcp.com/?pixel_click_id=0_0_1wSs9e_78H_5O2_ED4_4pOP_6PNwZ0GardESTDjmhh7VHT&utm_source=mgskyads&pixel_id=23806) | <img src="3 redirect/luckybonus-final1-vyzhcp.png" width="150"> |
+| Спін 2 | [dhrbzkp.com](https://www.dhrbzkp.com/?pixel_click_id=0_0_1wSs9e_78H_5O2_E5U_4oiY_6PNwZ0GardESTDjmhh7VHT&utm_source=oks&oks_pixel_id=23567) | <img src="3 redirect/luckybonus-final2-dhrbzkp.png" width="150"> |
+| Спін 3 | [karvilo.com](https://www.karvilo.com/?oks_pixel_id=17893&utm_source=oks&pixel_click_id=0_0_1wSs9e_78H_5O2_CaU_4h7K_6PNwZ0GardESTDjmhh7VHT) | <img src="3 redirect/luckybonus-final3-karvilo.png" width="150"> |
+| Спін 4 | [play.22betting.online](https://play.22betting.online/2370339310/_cus_tpl.html?index=lk11q3OS&gaid=&click_id=0_0_1wSs9e_78H_5O2_C8H_4etL_6PNwZ0GardESTDjmhh7VHT&link_id=L2605291747600501709921402408) | <img src="3 redirect/luckybonus-final4-22betting.png" width="150"> |
+| Спін 5 | [play.22betting.online](https://play.22betting.online/2370339310/_cus_tpl.html?index=lk11q3OS&gaid=&click_id=0_0_1wSsAR_78H_5O2_C8H_4etN_6PNwZ0GardESTDjmhh7VHT&link_id=L2605293627600502951561493408) | <img src="3 redirect/luckybonus-final5-22betting.png" width="150"> |
+
+---
+
+## 5. landing.winzir.ph
+
+**Тип:** Прелендінг → Фінальний офер
+
+### Крок 1 — Прелендінг
+
+**URL:** [landing.winzir.ph](https://landing.winzir.ph/?btag=WZPH_l379959)
+
+**Скріншот:**
+
+<img src="1 redirect/winzir-preland.png" width="250">
+### Крок 2 — Фінальний офер
+
+**URL:** [winzir.ph](https://winzir.ph/?btag=WZPH_l379959&_gl=1%2A1y936rx%2A_gcl_au%2ANjIwMTU5NDIzLjE3Nzk5NzU2ODAuMTM0Nzg2NDg3Ni4xNzgwMDQzODMzLjE3ODAwNDM4NTI.%2A_ga%2AMTk5ODAyNzQ0NS4xNzc5OTc1Njgw%2A_ga_TLDHZ0VGZS%2AczE3ODAwNDM4MzAkbzMkZzEkdDE3ODAwNDM4NTIkajM4JGwwJGgw)
+
+**Скріншот:**
+
+<img src="2 redirect/winzir-final.png" width="250">
+
+---
+
+
+## 6. urbanexplorenow.com (exit_type=not_survey)
+
+**Тип:** Прелендінг → Фінальний офер
+
+### Крок 1 — Прелендінг
+
+**URL:** [urbanexplorenow.com](https://urbanexplorenow.com/n9PSLJ5w?cost=&currency=usd&external_id=1084147026546401451&creative_id=24845588&ad_campaign_id=10134007&zone_id=10657723&subzone_id=&zone_type=in-page-push&exit_type=not_survey)
+
+**Скріншот:**
+
+<img src="1 redirect/urbanexplore-notsurvey-preland.png" width="250">
+**Механіка прелендінгу:**
+1. Користувач бачить сторінку → натискає **OK**
+2. Колесо автоматично крутиться перший раз
+3. Колесо крутиться вдруге — користувач «виграє»
+4. Користувач натискає **OK** ще раз
+5. Відбувається редірект на фінальний офер
+
+### Крок 2 — Фінальний офер
+
+**URL:** [anglegravity.rest](https://anglegravity.rest/?sub1=2t6phd5.13.p66fgd&fb_dynamic_pixel=886505614038463&subid=2t6phd5.13.p66fgd)
+
+**Скріншот:**
+
+<img src="2 redirect/urbanexplore-notsurvey-final-anglegravity.png" width="250">
+
+---
+
+
+## 7. historynice.bond — safevideo
+
+**Тип:** Прелендінг → Фінальний офер
+
+### Крок 1 — Прелендінг
+
+**URL:** [historynice.bond/safevideo](https://historynice.bond/safevideo/index.php?lp_key=17800bd8e9070595951719c78f5ac3888da6045136&xts=4&xz=10657865&xcd=mediatops.forum&xco=2&xcc=PH&xan=4&clickid=d8cl89011plc73ai3ap0)
+
+**Скріншот:**
+
+<img src="1 redirect/historynice-safevideo-preland.png" width="250">
+### Крок 2 — Фінальний офер
+
+**URL:** [gettradingarena.shop](https://gettradingarena.shop/tx2GBpH3?ad_campaign_id=25966&source=10657865&external_id=d8cl89011plc73ai3ap0)
+
+**Скріншот:**
+
+<img src="2 redirect/historynice-final-gettradingarena.png" width="250">
+
+---
+
